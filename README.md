@@ -1,7 +1,8 @@
 # AuxiliarJS
 Funções auxiliares JS usadas com frequência durantes os estudos:
 
-*1) 
+1. *print*: Imprime no terminal sem acrescentar o final de linha ('\n');
+2. 
 
 É feito uso do módulo [scanf](https://www.npmjs.com/package/scanf).
 
