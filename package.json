@@ -1,0 +1,20 @@
+{
+  "name": "AuxiliarJS",
+  "version": "1.0.0",
+  "description": "Funções auxiliares JS usadas com frequência durantes os estudos. É feito uso do módulo [scanf](https://www.npmjs.com/package/scanf).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TCT9/AuxiliarJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TCT9/AuxiliarJS/issues"
+  },
+  "homepage": "https://github.com/TCT9/AuxiliarJS#readme"
+}
