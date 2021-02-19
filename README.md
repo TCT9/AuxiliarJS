@@ -15,10 +15,12 @@ Para usar como uma dependência de um projeto, entre na pasta do seu projeto e f
 
 Se não tiver um projeto, crie uma pasta com o nome sugestivo:
 
-```mkdir exercioLogica```
-```cd exercioLogica```
-```exercioLogica/$ npm init -y```
-```exercioLogica/$ npm install clone https://github.com/TCT9/AuxiliarJS```
+```
+mkdir exercioLogica
+cd exercioLogica
+exercioLogica/$ npm init -y
+exercioLogica/$ npm install clone https://github.com/TCT9/AuxiliarJS
+```
 
 
 E o projeto será clonado e as dependêcias instaladas.
