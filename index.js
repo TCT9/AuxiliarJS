@@ -41,6 +41,4 @@ function console_log(...data) {
     console.log(str_data);
 }
 
-let t = print("Digite um número inteiro: "); scanf("%d");
-
 module.exports = {print, scanf, isNumber, console_log};
