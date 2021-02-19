@@ -6,13 +6,17 @@ Funções auxiliares JS usadas com frequência durantes os estudos:
 3. *isNumber*: Retorna ```true``` se for um ```Number``` ou ```false```, caso contrário;
 4.  *console_log*: imprime objetos que sobre-escrevem o método 'toString'. O ```console.log``` padrão não faz isso;
 5.  [*scanf*](https://www.npmjs.com/package/scanf): Este modulo permite a entrada de texto formatada, no estio C. Veja o link para mais detalhes.
-6.  *prompt* : similar ao prompt usado em ambiente web (é um scanf("%s")). ;)!
+6.  *prompt* : similar ao prompt usado em ambiente web. ;)!
 
 
-Para instalar, abra um terminal, escolha um diretório desejado e depois execute:
+Para usar como uma dependência de um projeto, entre na pasta do seu projeto e faça:
 
-```gti clone https://github.com/TCT9/AuxiliarJS```
+```npm install clone https://github.com/TCT9/AuxiliarJS```
 
-```npm install```
+Se não tiver um projeto, crie uma pasta com o nome sugestivo:
+```mkdir exercioLogica```
+```cd exercioLogica 
+
+```npm init -y```
 
 E o projeto será clonado e as dependêcias instaladas.
