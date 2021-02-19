@@ -41,4 +41,9 @@ function console_log(...data) {
     console.log(str_data);
 }
 
+function prompt(text = "") {
+    print(text); 
+    return scanf("%s");
+}
+
 module.exports = {print, scanf, isNumber, console_log};
