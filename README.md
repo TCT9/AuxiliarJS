@@ -14,8 +14,9 @@ Para usar como uma dependência de um projeto, entre na pasta do seu projeto e f
 ```npm install clone https://github.com/TCT9/AuxiliarJS```
 
 Se não tiver um projeto, crie uma pasta com o nome sugestivo:
+
 ```mkdir exercioLogica```
-```cd exercioLogica 
+```cd exercioLogica```
 
 ```exercioLogica/$ npm init -y```
 ```exercioLogica/$ npm install clone https://github.com/TCT9/AuxiliarJS```
