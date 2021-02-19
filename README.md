@@ -17,6 +17,8 @@ Se não tiver um projeto, crie uma pasta com o nome sugestivo:
 ```mkdir exercioLogica```
 ```cd exercioLogica 
 
-```npm init -y```
+```exercioLogica/$ npm init -y```
+```exercioLogica/$ npm install clone https://github.com/TCT9/AuxiliarJS```
+
 
 E o projeto será clonado e as dependêcias instaladas.
