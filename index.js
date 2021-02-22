@@ -46,4 +46,4 @@ function prompt(text = "") {
     return scanf("%s");
 }
 
-module.exports = {print, scanf, isNumber, console_log};
+module.exports = {print, prompt, scanf, isNumber, console_log};
