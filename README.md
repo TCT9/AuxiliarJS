@@ -19,5 +19,5 @@ Se não tiver um projeto, crie uma pasta com o nome sugestivo:
 mkdir exercioLogica
 cd exercioLogica
 exercioLogica/$ npm init -y
-exercioLogica/$ npm install clone https://github.com/TCT9/AuxiliarJS
+exercioLogica/$ npm install https://github.com/TCT9/AuxiliarJS
 ```
