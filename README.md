@@ -22,4 +22,5 @@ exercioLogica/$ npm init -y
 exercioLogica/$ npm install https://github.com/TCT9/AuxiliarJS
 ```
 Ou então:
+
 ```exercioLogica/$ npm i https://github.com/TCT9/AuxiliarJS```
